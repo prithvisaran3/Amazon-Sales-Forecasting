@@ -48,13 +48,14 @@ Addressed challenges like overfitting, seasonal effects, and data sparsity
 
 Provided actionable insights for optimizing product focus and shop performance
 
-⚖️ License
+** License**
 
 This project is licensed under the MIT License.
 
-📬 Contact
+**Contact**
 
 Developed by Prithvi Saran Sathyasaran
+
 GitHub: prithvisaran3
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/prithvisaran/
