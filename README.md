@@ -3,19 +3,6 @@
 Time-series forecasting project using the *Predict Future Sales* Kaggle dataset.  
 Preprocessed data, engineered lag/rolling features; trained Linear Regression, KNN, and XGBoost models. Evaluated with RMSE and visualized sales trends. Built for GWU Machine Learning course.
 
----
-
-## 🗂 Repository Structure
-amazon-sales-forecasting/
-│
-├── notebooks/ # Jupyter/Colab notebook(s)
-│ └── amazon_sales_forecasting.ipynb
-├── data/ # Sample data or instructions to download full dataset
-├── src/ # Scripts for preprocessing, feature engineering, model training
-├── results/ # Plots, evaluation metrics, screenshots
-├── requirements.txt # Python dependencies
-├── README.md # This file
-└── LICENSE # License (e.g., MIT)
 
 ---
 
